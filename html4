@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<title> My Page</title>
+<!--<link rel="stylesheet" href="style1.css"/>-->
+<style>
+#container{
+width:250px;
+height:250px;
+border: 1px solid #000;
+background-Color:blue
+}
+#box1{
+width:150px;
+height:150px;
+border:1px solid #000;
+background-color:red;
+padding:3px;
+text-align:center;
+position:absolute;
+}
+.fixed{
+background-color:#FF0000;
+}
+</style>
+<body>
+<div id="container"></div>
+<div id="box2" class="fixed"></div>
+<div id="box1" ></div>
+<div id="box1" ></div>
+<div id="box1" ></div>
+<div id="box1" ></div>
+</body>
+</head>
+</html
