@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<title> hello </title>
+<body>
+<style>
+h1{
+color:red;
+font-size:50px;
+font-family:arial;
+}
+h2{
+color:black;
+font-size:40px;
+font-family:arial;
+}
+p{
+color:blue;
+font-size:30px;
+font-style:italic;
+font-family:arial;
+}
+#large{color:green}
+
+.bold{size:bold}
+
+</style>
+<h1 > HEADING</h1>
+<h2 >Wrong impletation !!</h2>
+<p style="color:green;">paragraph in class textcolor1</P>
+<p id="large;class="bold;">This is my page </P>
+
+<p class="bold;">Heading</p>
+</body>
+</head>
+</html>
