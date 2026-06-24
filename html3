@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PHOTOS</title>
+<link rel="stylesheet" href='style1.css'/>
+</head>
+<body>
+<div id="container">
+<img src="img3.jpeg" class="myslide" style="width:100%"/>
+<img src="img4.jpeg" class="myslide" style="width:100%"/>
+<img src="img5.jpeg" class="myslide" style="width:100%"/>
+<img src="img6.jpeg" class="myslide" style="width:100%"/>
+<button class="btn" onclick="fun(-1)">&#10094;</button>
+<button class="btn" id="btn2" onclick="fun(1)">&#10095;</button>
+</div>
+<script type='text/javascript' src="myscript.js"/>
+</script>
+</body>
+</html>
