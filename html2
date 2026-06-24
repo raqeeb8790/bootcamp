@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title> today date</title>
+<meta http-equiv="refresh" content="1"/>
+<body>
+<h1>Introducing To Java</h1>
+<h2> Today is:</h2>
+<div id="txt"></div>
+<script src="script.js" type="text/JavaScript"></script>
+</body>
+</head>
+</html
