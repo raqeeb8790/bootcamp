@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>FirstApp</title>
+<link rel="stylesheet" type="text/css" href="styledemo.css">
+</head>
+<body>
+<ul>
+<li> <a href="Home.html">home</a></li>
+<li> <a href="Portfolio.html">portfolio</a></li>
+<li> <a href="About us.html">about us</a></li>
+<li> <a href="contact us.html">contact us</a></li>
+<p>welcome to the home page</p>
+</body>
+</head>
